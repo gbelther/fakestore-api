@@ -1,0 +1,1 @@
+export { expressAdaptRoute } from './expressAdaptRoute'

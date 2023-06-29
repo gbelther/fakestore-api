@@ -1,0 +1,1 @@
+export { makeImageStorageProvider } from './imageStorageProviderFactory'
